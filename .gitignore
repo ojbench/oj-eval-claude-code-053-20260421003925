@@ -5,3 +5,7 @@ Makefile
 code
 *.o
 submission_ids.log
+__pycache__/
+*.pyc
+core.*
+test*
